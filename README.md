@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Aryan Sharma</h1>
 
-<!--
-**Aryan-sharma11/Aryan-sharma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Backend Developer | Linux Enthusiast | Kernel & Security Explorer</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧑‍💻 Backend Developer at **Accuknox**  
+- 🔧 Maintainer of **KubeArmor** – A CNCF sandbox project focused on runtime security  
+- 🛡️ Passionate about **Linux**, **eBPF**, and **Kernel-space security**  
+- 🌐 Open-source contributor and advocate  
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Golang, C, Python, Java  
+- **DevOps & Infra:** Docker, Kubernetes, GitHub Actions, Helm, GitOps  
+
+---
+
+
+### 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-sharma1126/)  
+<!-- - 🌐 [Portfolio](https://aryansharma.dev) *(if applicable)*   -->
+- 📧 aryan1126.sharma@gmai.com
+
+
+<p align="center">
+  <img src="https://github-readme-stats-iota-blond-26.vercel.app/api?username=Aryan-sharma11&count_private=true&show_icons=true&hide_border=true&theme=radical"/>
+  <br />
+</p>
