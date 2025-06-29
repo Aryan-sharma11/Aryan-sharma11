@@ -30,6 +30,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-iota-blond-26.vercel.app/api?username=Aryan-sharma11&count_private=true&show_icons=true&hide_border=true&theme=radical"/>
+  <img src="https://github-readme-stats-aryan-sharmas-projects-d736244e.vercel.app/api?username=Aryan-sharma11&count_private=true&show_icons=true&hide_border=true&theme=radical"/>
   <br />
 </p>
