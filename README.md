@@ -25,5 +25,5 @@
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aryan-sharma1126/)  
-<!-- - 🌐 [Portfolio](https://aryansharma.dev) *(if applicable)*   -->
-- 📧 aryan1126.sharma@gmai.com
+
+- 📧 aryan1126.sharma@gmail.com
