@@ -27,9 +27,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/aryan-sharma1126/)  
 <!-- - 🌐 [Portfolio](https://aryansharma.dev) *(if applicable)*   -->
 - 📧 aryan1126.sharma@gmai.com
-
-
-<p align="center">
-  <img src="https://github-readme-stats-aryan-sharmas-projects-d736244e.vercel.app/api?username=Aryan-sharma11&count_private=true&show_icons=true&hide_border=true&theme=radical"/>
-  <br />
-</p>
