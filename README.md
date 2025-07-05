@@ -16,7 +16,7 @@
 
 ### 🛠 Tech Stack
 
-- **Languages:** Golang, C, Python, Java  
+- **Languages:** Golang, C, C++, Python, Java  
 - **DevOps & Infra:** Docker, Kubernetes, GitHub Actions, Helm, GitOps  
 
 ---
