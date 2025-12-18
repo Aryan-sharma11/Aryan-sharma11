@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 Backend Developer at **Accuknox**  
+- 🧑‍💻 Software Engineer at **Accuknox**  
 - 🔧 Maintainer of **KubeArmor** – A CNCF sandbox project focused on runtime security  
 - 🛡️ Passionate about **Linux**, **eBPF**, and **Kernel-space security**  
 - 🌐 Open-source contributor
