@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aryan Sharma</h1>
 
 <p align="center">
-  <i>Backend Developer | Linux Enthusiast | Kernel & Security Explorer</i>
+  <i>Software Developer | Linux Enthusiast | Kernel & Security Explorer</i>
 </p>
 
 ---
